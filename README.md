@@ -6,11 +6,11 @@ Oyunun konusu: Ajan Rex diye adlandırdığım tamamen hayali ve gerçek hiçbir
 Görseller:
 
 
-![3](https://user-images.githubusercontent.com/38917909/74276231-61047700-4d26-11ea-9b59-25c24d87ebd8.PNG)
+![1](https://user-images.githubusercontent.com/38917909/74276496-e1c37300-4d26-11ea-9ffe-5da09e786a00.png)
 
 ![2](https://user-images.githubusercontent.com/38917909/74276486-df611900-4d26-11ea-848b-ae17043eb240.png)
 
-![1](https://user-images.githubusercontent.com/38917909/74276496-e1c37300-4d26-11ea-9ffe-5da09e786a00.png)
+![3](https://user-images.githubusercontent.com/38917909/74276231-61047700-4d26-11ea-9b59-25c24d87ebd8.PNG)
 
 
 # Hidden File (Game)
@@ -21,8 +21,8 @@ Topic of the Game: Ajan Rex which is an entirely fictitious character and has no
 Pictures:
 
 
-![3](https://user-images.githubusercontent.com/38917909/74276231-61047700-4d26-11ea-9b59-25c24d87ebd8.PNG)
+![1](https://user-images.githubusercontent.com/38917909/74276496-e1c37300-4d26-11ea-9ffe-5da09e786a00.png)
 
 ![2](https://user-images.githubusercontent.com/38917909/74276486-df611900-4d26-11ea-848b-ae17043eb240.png)
 
-![1](https://user-images.githubusercontent.com/38917909/74276496-e1c37300-4d26-11ea-9ffe-5da09e786a00.png)
+![3](https://user-images.githubusercontent.com/38917909/74276231-61047700-4d26-11ea-9b59-25c24d87ebd8.PNG)
